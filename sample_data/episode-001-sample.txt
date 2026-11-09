@@ -1,0 +1,169 @@
+EPISODE NUMBER: Episode 1
+EPISODE LOGLINE: Mara storms the harbour office to demand the missing lighthouse ledger, only to learn her father may never have drowned.
+CONTINUITY NOTES: First episode of the series. Establishes Mara's search for the truth about her father's death.
+
+--- SCRIPT START ---
+
+SCENE 01
+Scene heading: INT. HARBOUR OFFICE - NIGHT
+Scene start: 00:00.00
+Scene end: 00:42.40
+
+Actions and dialogue:
+
+**CAMERA:**
+Start: (00:00.00) | End: (00:04.90)
+Medium close-up on Daniel as the exchange tightens.
+
+**DANIEL (Cold, Dismissive):**
+Start: (00:01.00) | End: (00:03.70)
+"You should not be here, Mara."
+
+**CAMERA:**
+Start: (00:04.90) | End: (00:08.50)
+Medium close-up on Mara as the exchange tightens.
+
+**MARA (Furious, Shaking):**
+Start: (00:05.20) | End: (00:07.60)
+"Where is my father's ledger?"
+
+**CAMERA:**
+Start: (00:08.50) | End: (00:12.40)
+Medium close-up on Daniel as the exchange tightens.
+
+**DANIEL (Smug):**
+Start: (00:08.80) | End: (00:11.20)
+"Drowned men keep no accounts."
+
+**CAMERA:**
+Start: (00:12.40) | End: (00:17.20)
+Medium close-up on Mara as the exchange tightens.
+
+**MARA (Cold, Cutting):**
+Start: (00:12.70) | End: (00:16.00)
+"He kept one. You burned it, didn't you?"
+
+**CAMERA:**
+Start: (00:17.20) | End: (00:21.10)
+Medium close-up on Daniel as the exchange tightens.
+
+**DANIEL (Low, Threatening):**
+Start: (00:17.50) | End: (00:20.20)
+"Careful. Accusations like that sink people."
+
+**CAMERA:**
+Start: (00:21.10) | End: (00:24.90)
+Medium close-up on Mara as the exchange tightens.
+
+**MARA (Defiant):**
+Start: (00:21.40) | End: (00:24.70)
+"Then let me sink. I want the truth!"
+
+**CAMERA:**
+Start: (00:24.90) | End: (00:27.60)
+Medium close-up on Tobias as the exchange tightens.
+
+**TOBIAS (Urgent, Whispering):**
+Start: (00:25.20) | End: (00:27.20)
+"Mara. Stop. Not here."
+
+**CAMERA:**
+Start: (00:27.60) | End: (00:31.80)
+Medium close-up on Daniel as the exchange tightens.
+
+**DANIEL (Shouting):**
+Start: (00:27.90) | End: (00:30.60)
+"Tobias, get out of my office!"
+
+**CAMERA:**
+Start: (00:31.80) | End: (00:37.30)
+Medium close-up on Tobias as the exchange tightens.
+
+**TOBIAS (Trembling):**
+Start: (00:32.10) | End: (00:36.10)
+"She has a right to know what happened that night."
+
+**CAMERA:**
+Start: (00:37.30) | End: (00:42.40)
+Medium close-up on Daniel as the exchange tightens.
+
+**DANIEL (Furious):**
+Start: (00:37.60) | End: (00:40.90)
+"You swore you would never speak of it!"
+
+SCENE 02
+Scene heading: EXT. LIGHTHOUSE ROCKS - DAWN
+Scene start: 00:42.40
+Scene end: 01:17.60
+
+Actions and dialogue:
+
+**CAMERA:**
+Start: (00:42.40) | End: (00:46.70)
+Medium close-up on Mara as the exchange tightens.
+
+**MARA (Breathless, Desperate):**
+Start: (00:43.40) | End: (00:45.80)
+"Tobias, what night? Tell me."
+
+**CAMERA:**
+Start: (00:46.70) | End: (00:51.70)
+Medium close-up on Tobias as the exchange tightens.
+
+**TOBIAS (Haunted, Quiet):**
+Start: (00:47.00) | End: (00:51.30)
+"The night the lamp went dark. Your father was not alone."
+
+**CAMERA:**
+Start: (00:51.70) | End: (00:54.70)
+Medium close-up on Mara as the exchange tightens.
+
+**MARA (Stunned):**
+Start: (00:52.00) | End: (00:54.00)
+"Who was with him?"
+
+**CAMERA:**
+Start: (00:54.70) | End: (00:59.20)
+Medium close-up on Tobias as the exchange tightens.
+
+**TOBIAS (Grave):**
+Start: (00:55.00) | End: (00:58.30)
+"Daniel. And a man in a grey coat."
+
+**CAMERA:**
+Start: (00:59.20) | End: (01:02.30)
+Medium close-up on Mara as the exchange tightens.
+
+**MARA (Incredulous):**
+Start: (00:59.50) | End: (01:01.90)
+"The Inspector? Vance was there?"
+
+**CAMERA:**
+Start: (01:02.30) | End: (01:06.50)
+Medium close-up on Vance as the exchange tightens.
+
+**VANCE (Calm, Menacing):**
+Start: (01:02.60) | End: (01:05.60)
+"Miss Hale. You ask too many questions."
+
+**CAMERA:**
+Start: (01:06.50) | End: (01:11.00)
+Medium close-up on Mara as the exchange tightens.
+
+**MARA (Startled, Gasping):**
+Start: (01:06.80) | End: (01:09.80)
+"Inspector. How long have you been listening?"
+
+**CAMERA:**
+Start: (01:11.00) | End: (01:17.60)
+Medium close-up on Vance as the exchange tightens.
+
+**VANCE (Cold, Smiling):**
+Start: (01:11.30) | End: (01:14.60)
+"Long enough to know your father never drowned."
+
+**SOUND FX:**
+Start: (01:14.80) | End: (01:16.80)
+A heavy iron door slams shut somewhere below.
+
+--- SCRIPT END ---

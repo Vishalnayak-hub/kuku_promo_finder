@@ -1,0 +1,153 @@
+EPISODE NUMBER: Episode 3
+EPISODE LOGLINE: Mara reaches the lamp room and finds the ledger, and a message in her father's handwriting.
+CONTINUITY NOTES: Picks up immediately after Episode 2 as Daniel corners Mara and Tobias inside the lighthouse.
+
+--- SCRIPT START ---
+
+SCENE 01
+Scene heading: INT. LIGHTHOUSE LAMP ROOM - DAY
+Scene start: 00:00.00
+Scene end: 00:47.10
+
+Actions and dialogue:
+
+**CAMERA:**
+Start: (00:00.00) | End: (00:04.40)
+Medium close-up on Mara as the exchange tightens.
+
+**MARA (Breathless):**
+Start: (00:01.00) | End: (00:03.40)
+"The lens. It is hollow."
+
+**CAMERA:**
+Start: (00:04.40) | End: (00:09.60)
+Medium close-up on Tobias as the exchange tightens.
+
+**TOBIAS (Whispering, Urgent):**
+Start: (00:04.70) | End: (00:08.40)
+"Quickly. I can hear his boots on the stairs."
+
+**CAMERA:**
+Start: (00:09.60) | End: (00:14.80)
+Medium close-up on Mara as the exchange tightens.
+
+**MARA (Stunned, Gasping):**
+Start: (00:09.90) | End: (00:13.60)
+"There is a letter. It is my father's handwriting."
+
+**CAMERA:**
+Start: (00:14.80) | End: (00:18.00)
+Medium close-up on Tobias as the exchange tightens.
+
+**TOBIAS (Haunted):**
+Start: (00:15.10) | End: (00:17.80)
+"Read it. Please. Before he arrives."
+
+**CAMERA:**
+Start: (00:18.00) | End: (00:24.50)
+Medium close-up on Mara as the exchange tightens.
+
+**MARA (Trembling, Tearful):**
+Start: (00:18.30) | End: (00:24.00)
+"If you read this, I was right to hide. Vance is not what he seems."
+
+**CAMERA:**
+Start: (00:24.50) | End: (00:27.00)
+Medium close-up on Daniel as the exchange tightens.
+
+**DANIEL (Furious, Shouting):**
+Start: (00:24.80) | End: (00:26.80)
+"Give me that letter!"
+
+**CAMERA:**
+Start: (00:27.00) | End: (00:30.80)
+Medium close-up on Mara as the exchange tightens.
+
+**MARA (Defiant, Fierce):**
+Start: (00:27.30) | End: (00:30.60)
+"Never. It is the only proof I have."
+
+**CAMERA:**
+Start: (00:30.80) | End: (00:35.30)
+Medium close-up on Daniel as the exchange tightens.
+
+**DANIEL (Low, Threatening):**
+Start: (00:31.10) | End: (00:34.80)
+"Then I will take it from your cold hands."
+
+**CAMERA:**
+Start: (00:35.30) | End: (00:38.80)
+Medium close-up on Tobias as the exchange tightens.
+
+**TOBIAS (Desperate):**
+Start: (00:35.60) | End: (00:37.60)
+"Mara, jump! The balcony!"
+
+**CAMERA:**
+Start: (00:38.80) | End: (00:42.30)
+Medium close-up on Mara as the exchange tightens.
+
+**MARA (Terrified):**
+Start: (00:39.10) | End: (00:42.10)
+"It is forty feet to the rocks!"
+
+**CAMERA:**
+Start: (00:42.30) | End: (00:47.10)
+Medium close-up on Daniel as the exchange tightens.
+
+**DANIEL (Snarling):**
+Start: (00:42.60) | End: (00:45.60)
+"Choose, Mara. The letter or the fall."
+
+SCENE 02
+Scene heading: EXT. LIGHTHOUSE BALCONY - DAY
+Scene start: 00:47.10
+Scene end: 01:12.40
+
+Actions and dialogue:
+
+**CAMERA:**
+Start: (00:47.10) | End: (00:51.60)
+Medium close-up on Mara as the exchange tightens.
+
+**MARA (Shaking, Resolute):**
+Start: (00:48.10) | End: (00:51.40)
+"My father trusted this place. So will I."
+
+**CAMERA:**
+Start: (00:51.60) | End: (00:55.90)
+Medium close-up on Tobias as the exchange tightens.
+
+**TOBIAS (Pleading):**
+Start: (00:51.90) | End: (00:55.20)
+"Wait! Someone is coming up the cliff path!"
+
+**CAMERA:**
+Start: (00:55.90) | End: (01:00.90)
+Medium close-up on Vance as the exchange tightens.
+
+**VANCE (Calm, Chilling):**
+Start: (00:56.20) | End: (00:59.90)
+"Hand me the letter, Miss Hale, and nobody falls."
+
+**CAMERA:**
+Start: (01:00.90) | End: (01:05.10)
+Medium close-up on Mara as the exchange tightens.
+
+**MARA (Whispering, Horrified):**
+Start: (01:01.20) | End: (01:04.90)
+"Vance. You were never here to help my father."
+
+**CAMERA:**
+Start: (01:05.10) | End: (01:12.40)
+Medium close-up on Vance as the exchange tightens.
+
+**VANCE (Smiling, Cold):**
+Start: (01:05.40) | End: (01:09.40)
+"I was here to make sure he never came home."
+
+**SOUND FX:**
+Start: (01:09.60) | End: (01:11.60)
+A single gunshot cracks across the water.
+
+--- SCRIPT END ---

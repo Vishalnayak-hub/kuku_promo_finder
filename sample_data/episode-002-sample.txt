@@ -1,0 +1,165 @@
+EPISODE NUMBER: Episode 2
+EPISODE LOGLINE: Vance claims Mara's father is alive and offers a deal, while Daniel moves to silence Tobias.
+CONTINUITY NOTES: Picks up directly from Episode 1's cliffhanger where Inspector Vance reveals that Mara's father never drowned.
+
+--- SCRIPT START ---
+
+SCENE 01
+Scene heading: EXT. LIGHTHOUSE ROCKS - DAWN
+Scene start: 00:00.00
+Scene end: 00:42.30
+
+Actions and dialogue:
+
+**CAMERA:**
+Start: (00:00.00) | End: (00:03.50)
+Medium close-up on Mara as the exchange tightens.
+
+**MARA (Shaking, Desperate):**
+Start: (00:01.00) | End: (00:03.00)
+"Alive? You are lying."
+
+**CAMERA:**
+Start: (00:03.50) | End: (00:08.00)
+Medium close-up on Vance as the exchange tightens.
+
+**VANCE (Calm, Measured):**
+Start: (00:03.80) | End: (00:07.10)
+"Walk with me and I will prove it."
+
+**CAMERA:**
+Start: (00:08.00) | End: (00:13.50)
+Medium close-up on Tobias as the exchange tightens.
+
+**TOBIAS (Urgent):**
+Start: (00:08.30) | End: (00:12.30)
+"Mara, don't. He is the reason the lamp went dark."
+
+**CAMERA:**
+Start: (00:13.50) | End: (00:16.60)
+Medium close-up on Vance as the exchange tightens.
+
+**VANCE (Sharp):**
+Start: (00:13.80) | End: (00:16.20)
+"Old man, hold your tongue."
+
+**CAMERA:**
+Start: (00:16.60) | End: (00:20.20)
+Medium close-up on Mara as the exchange tightens.
+
+**MARA (Furious):**
+Start: (00:16.90) | End: (00:19.30)
+"Don't you dare threaten him!"
+
+**CAMERA:**
+Start: (00:20.20) | End: (00:25.30)
+Medium close-up on Vance as the exchange tightens.
+
+**VANCE (Soft, Venomous):**
+Start: (00:20.50) | End: (00:24.80)
+"I do not threaten. I offer. Your father, for the ledger."
+
+**CAMERA:**
+Start: (00:25.30) | End: (00:29.20)
+Medium close-up on Mara as the exchange tightens.
+
+**MARA (Cold):**
+Start: (00:25.60) | End: (00:28.00)
+"I don't have the ledger."
+
+**CAMERA:**
+Start: (00:29.20) | End: (00:34.70)
+Medium close-up on Vance as the exchange tightens.
+
+**VANCE (Smug):**
+Start: (00:29.50) | End: (00:33.80)
+"Then you will find it. You have until the tide turns."
+
+**CAMERA:**
+Start: (00:34.70) | End: (00:37.50)
+Medium close-up on Mara as the exchange tightens.
+
+**MARA (Breathless):**
+Start: (00:35.00) | End: (00:37.00)
+"And if I refuse?"
+
+**CAMERA:**
+Start: (00:37.50) | End: (00:42.30)
+Medium close-up on Vance as the exchange tightens.
+
+**VANCE (Low, Threatening):**
+Start: (00:37.80) | End: (00:40.80)
+"Then Tobias pays for your father's sins."
+
+SCENE 02
+Scene heading: INT. LIGHTHOUSE - DAY
+Scene start: 00:42.30
+Scene end: 01:17.30
+
+Actions and dialogue:
+
+**CAMERA:**
+Start: (00:42.30) | End: (00:46.50)
+Medium close-up on Mara as the exchange tightens.
+
+**MARA (Urgent, Whispering):**
+Start: (00:43.30) | End: (00:46.00)
+"Tobias, where would he hide it?"
+
+**CAMERA:**
+Start: (00:46.50) | End: (00:51.70)
+Medium close-up on Tobias as the exchange tightens.
+
+**TOBIAS (Trembling):**
+Start: (00:46.80) | End: (00:50.50)
+"In the lamp room. Behind the old brass lens."
+
+**CAMERA:**
+Start: (00:51.70) | End: (00:55.70)
+Medium close-up on Mara as the exchange tightens.
+
+**MARA (Determined):**
+Start: (00:52.00) | End: (00:55.00)
+"Then we get there before Daniel does."
+
+**CAMERA:**
+Start: (00:55.70) | End: (00:58.90)
+Medium close-up on Daniel as the exchange tightens.
+
+**DANIEL (Shouting, Enraged):**
+Start: (00:56.00) | End: (00:58.70)
+"Stop right there, both of you!"
+
+**CAMERA:**
+Start: (00:58.90) | End: (01:02.10)
+Medium close-up on Mara as the exchange tightens.
+
+**MARA (Defiant):**
+Start: (00:59.20) | End: (01:01.60)
+"You will not stop me."
+
+**CAMERA:**
+Start: (01:02.10) | End: (01:07.80)
+Medium close-up on Daniel as the exchange tightens.
+
+**DANIEL (Cold, Cruel):**
+Start: (01:02.40) | End: (01:07.10)
+"I do not need to stop you. I only need the key."
+
+**CAMERA:**
+Start: (01:07.80) | End: (01:12.00)
+Medium close-up on Tobias as the exchange tightens.
+
+**TOBIAS (Pleading):**
+Start: (01:08.10) | End: (01:10.80)
+"Mara, run! He has a gun!"
+
+**CAMERA:**
+Start: (01:12.00) | End: (01:17.30)
+Medium close-up on Daniel as the exchange tightens.
+
+**DANIEL (Furious):**
+Start: (01:12.30) | End: (01:14.30)
+"Nobody runs from me!"
+
+--- SCRIPT END ---
